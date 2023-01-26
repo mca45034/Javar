@@ -2,7 +2,7 @@ package String_Assigment21JAN;
 
 public class Assigment_3 {
 	public static void main(String[] args) {
-	String s="by the end century the revolution took plewase this time in hence france";
+	String s="by the end century the revolution took pleace this time in hence france";
 	String str=s.toLowerCase();
 	char ch[]=str.toCharArray();
 	int Vcount=0;

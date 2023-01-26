@@ -1,6 +1,6 @@
 package String_Assigment21JAN;
 
-public class Assigment_17 {
+public class Assigment_18 {
 
 	public static void main(String[] args) {
 		String st = "This is an umberella";
@@ -30,3 +30,5 @@ public class Assigment_17 {
 	}
 
 }
+
+	
